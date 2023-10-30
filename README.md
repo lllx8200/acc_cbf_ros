@@ -13,3 +13,6 @@ qp_acc
 
 可执行程序
 qp
+
+可视化程序
+plot.py
